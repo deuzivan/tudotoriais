@@ -1,0 +1,128 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.foxsports.com.br/sites/foxsports-br/files/img/scaled/630x/notes/materia/Fox_Sports_Logo-140x105.png" group-title="FULTEBOL", FOX 1 
+http://cdn.whostreams.net:8080/hls/3h23vjvyfv6.m3u8?s=O5ROSoJj0_kJI6gDwtjpyg&e=1532125434
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.foxsports.com.br/sites/foxsports-br/files/img/scaled/630x/notes/materia/Fox_Sports_Logo-140x105.png" group-title="FULTEBOL", FOX2
+http://cdn.whostreams.net:8080/hls/xfev9la6.m3u8?s=5i9BgBnfJaxIU5SJvYxLXg&e=1532125801
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kveDSQmD8cQ/T9eDTr8KgtI/AAAAAAAAFi4/_UsgWGl_ZkU/s1600/Os-Simpsons-PNG-Queroimagem.com.png" group-title="DESENHO", SIMPSONS
+http://159.69.15.157/loadbalance/ossimpsons/chunks.m3u8?pxAuth=H3K5ZLFwR08JddecTN7HUVHmmnhd8hYc
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/band.png" group-title="TV ABERTA", BAND NEWS
+http://162.244.80.233/loadbalance/bandhd/chunks.m3u8?pxAuth=tNKixHEfc3stlalBCkuRmjF1NGowJ7kn
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/band.png" group-title="TV ABERTA",BAND 2
+http://cdn.whostreams.net:8080/hls/7456cu4c8xd7bb.m3u8?s=IeWUpOH_0YiNQkoAXOjQUA&e=1532126403
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156200/sportv-hd.png?v=636446937368200000" group-title="FULTEBOL", SPORT TV
+http://cdn.whostreams.net:8080/hls/mrnjfuwso.m3u8?s=lBdoM6ITxaGHg8UqjEcAgg&e=1532126739
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156200/sportv-hd.png?v=636446937368200000" group-title="FULTEBOL", BAND 22
+http://162.244.80.248/loadbalance/bandhd/chunks.m3u8?pxAuth=l1fMJG0lMeCxzBwj3vxK5zGE6qKBnGNB
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156200/sportv-hd.png?v=636446937368200000" group-title="FULTEBOL", SPORT TV 33
+http://162.244.80.80/loadbalance/foxsports2/chunks.m3u8?pxAuth=FIqn5Kp16fuCABfOQ0WBA1NIlMKJeKCg
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-gkYjAKJZDWI/Vl9qdwRWN6I/AAAAAAAAmNA/nPW3dUAuBAQ/s1600/Cartoon_Network_2004_logo.svg.png" group-title="DESENHO",  Cartoon Network
+http://162.244.80.13/loadbalance/cartoonnetwork/chunks.m3u8?pxAuth=nl7dpw7F5x2xfnPE3GMXGZ8tM9gqEGLN
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="FULTEBOL", SPORT INTERAT
+http://162.244.80.177/loadbalance/max1/chunks.m3u8?pxAuth=gVv9B25nHm0g3176KfZ00pAo1mLm4NtX
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="FULTEBOL", ESPN
+http://159.69.5.126/loadbalance/espnhd/chunks.m3u8?pxAuth=fbSPH5FWwjlVa0cymz8ZMjbh63mTPZUi
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="FULTEBOL", SPN
+http://cdn.whostreams.net:8080/hls/2jhzegttc.m3u8?s=lwOrY0S_Emf5nlMINocZmg&e=1532128335
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="FULTEBOL", EI MAX
+http://162.244.80.13/loadbalance/max2/chunks.m3u8?pxAuth=aU9WuLBX50T5IOvahocDZFMyoPJHczhw
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="FULTEBOL", EI MAX
+http://cdn.whostreams.net:8080/hls/rj4f6pqik40.m3u8?s=K0QwRS5yCiWYK5a24nT1sg&e=1532128718
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.gameplay.vlog.br/images/seta%20do%20canal%20(vermelho%20-%20png).png?crc=165255924" group-title="YOUTUBE", SE ESCREVA NO NOSSO CANAL
+https://www.youtube.com/watch?v=OyYfbvCf4rY&t=195s
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.desifree.tv/wp-content/uploads/logo-tv.png" group-title="TV ABERTA", REDE TV 
+http://94.176.148.138:8081/live/master300/chunks.m3u8?nimblesessionid=466051&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE4IDU6Mjc6NDcgUE0maGFzaF92YWx1ZT1OMlhNMnQxOHVIblVNVFBMRXh6dFBnPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="DESENHO", GLOOB
+http://159.69.9.115/loadbalance/gloob-hd/chunks.m3u8?pxAuth=mrZ6guC3YYlnoKYR1t1xtKLabVcVC0su
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="DESENHO", BOB ESPONJA
+https://youtu.be/g3tmhFMXoJA
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="DESENHO", GLOOB
+http://159.69.15.141/loadbalance/gloob-hd/chunks.m3u8?pxAuth=B8LukrLOwyM0WWdlSIXEF77stphUnSew
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="DESENHO", CHAVES
+https://youtu.be/1uS9dKZlGB4?list=PLGySmERhTVkw4ZsttuUURGs9PpHg85H1x
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="VARIEDADE", HeH
+http://162.244.80.233/loadbalance/discoveryhomehealth/chunks.m3u8?pxAuth=DBCeDiDEoj6uN0Ll6jA0W88INmKv9REe
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="VARIEDADE", HeH 1
+http://159.69.36.136/loadbalance/discoveryhomehealth/chunks.m3u8?pxAuth=nFpU0QS0RbTW9Iex1Yq8vm9zUSDWR8JP
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="FILME", HBO2
+http://162.244.80.76/loadbalance/hbo2hd/chunks.m3u8?pxAuth=9xb9owlNvZx3U9deIVoN35Zsz1mpGZ9n
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="FILME", HBO3
+http://159.69.15.94/loadbalance/hbo2hd/chunks.m3u8?pxAuth=R1JspFnxu4BDYc2ZDV22zDOy5cQQILkE
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="FILME", FOX FILME
+http://162.244.80.13/loadbalance/fox-hd/chunks.m3u8?pxAuth=oZ7MuBNvYMInZJ0GY5PfZsI0WhMvfchO
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/01/03/17bb2855c746f5ff2881bf41e4534bad.jpg" group-title="FILME", FOX FILME2
+http://162.244.80.13/loadbalance/fox-hd/chunks.m3u8?pxAuth=oZ7MuBNvYMInZJ0GY5PfZsI0WhMvfchO
